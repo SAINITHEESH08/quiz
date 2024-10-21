@@ -67,6 +67,16 @@
             question: "Who wrote 'To Kill a Mockingbird'?",
             options: ["Harper Lee", "Jane Austen", "Mark Twain", "F. Scott Fitzgerald"],
             answer: "Harper Lee"
+        },
+        {
+            question: "Which country has the highest life expectancy?",
+            options: ["Berlin", "Jane Austen", "Mark Twain", "Monaco "],
+            answer: "Monaco"
+        },
+        {
+            question: "Who was the Ancient Greek God of the Sun? ",
+            options: ["Berlin", "Chariot", "Helios", "Monaco "],
+            answer: "Helios"
         }
     ];
 
