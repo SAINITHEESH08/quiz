@@ -70,12 +70,12 @@
         },
         {
             question: "Which country has the highest life expectancy?",
-            options: ["Berlin", "Jane Austen", "Mark Twain", "Monaco "],
+            options: ["Berlin", "Jane Austen", "Mark Twain", "Monaco"],
             answer: "Monaco"
         },
         {
             question: "Who was the Ancient Greek God of the Sun? ",
-            options: ["Berlin", "Chariot", "Helios", "Monaco "],
+            options: ["Berlin", "Chariot", "Helios", "Monaco"],
             answer: "Helios"
         }
     ];
